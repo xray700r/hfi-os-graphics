@@ -1,3 +1,10 @@
-# hfi-os-graphics
-Graphics for the HFI-OS Club 
-Included are a banner SVG and png files with thite and black background.
+# HFI Open Source Club Graphics
+* Club Logo
+  * Transparent PNG format
+  * Editable AI format
+* Wide Banner
+  * Black version
+  * Dark version
+  * White version
+  * Transparent version
+  * Editable PSD format
